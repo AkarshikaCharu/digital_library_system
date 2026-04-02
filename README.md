@@ -1,5 +1,7 @@
 # digital_library_system
 A high-performance, Role-Based Access Control (RBAC) web application built with Streamlit and SQLite. This system is designed to provide a seamless digital interface for managing library inventories with a focus on security and user experience.
+
+
 Key Features
 Dynamic UI Rendering: Unique dashboards for Faculty (Admin Tools & Analytics) and Students (Catalog & Borrowing).
 Secure Authentication: User passwords protected using SHA-256 Hashing.
